@@ -1,0 +1,13 @@
+{
+  "name": "servidor-hola-mundo",
+  "version": "1.0.0",
+  "description": "Servidor básico de Node.js que responde con '¡Hola, mundo!'",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "igor ezequiel",
+  "license": "MIT",
+  "dependencies": {}
+}
+
